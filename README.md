@@ -16,9 +16,11 @@ Learnig Game -Design & -Engineering since 2024
 const aboutMe = {
   basedIn:"Schwerin Germany"
   b = basics, l = littleKnowledge,
-  code: [C# = b, Lua = l, Kotlin = l],
-  skills:[LevelDesign = b, 3DModling = l, ConceptArt = l]
-  tools: [Unity = b, Figma = b, Blender = l, Photoshop = l, Asprite = l],
+  code:       [C# = b, Lua = l, Kotlin = l],
+  skills:     [LevelDesign = b, 3DModling = l, ConceptArt = l],
+  tools:      [Unity = b, Figma = b, Blender = l, Photoshop = l, Asprite = l],
+  platforms:  [Windows = b, Mobile = l]
+
   
  currentFocus:"I am working currently on my 4.SemesterProject & reusable and independent movement scripts"
 }
