@@ -11,8 +11,8 @@ In 2021 i tried blender, unity and VS Code for the first time.
 
 Learnig Game -Design & -Engineering since 2024 at https://designschule.de 
 
-*   See my projects [https://dusselig.itch.io](http://dusselig.itch.io)
-*   You can contact me per discord or at [elialuning5@gmail.de](mailto:elialuning5@gmail.de)
+*   See my projects [dusselig.itch.io](http://dusselig.itch.io)
+*   You can contact me per [discord](https://discord.com/users/dusselig) or [email](mailto:elialuning5@gmail.de)
 ```javascript
 const aboutMe = {
   b = basics, l = littleKnowledge,
