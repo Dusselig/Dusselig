@@ -15,7 +15,7 @@ Learnig Game -Design & -Engineering since 2024
 ```javascript
 const aboutMe = {
   basedIn:"Schwerin Germany"
-  code: [c#, aLittleLua, aLitlleKotlin],
+  code: [C#, aLittleLua, aLitlleKotlin],
   tools: [Unity, Figma, Blender, Photoshop, Asprite],
   
  currentFocus: "I am working currently on my 4.SemesterProject & reusable and independent movement scripts"
