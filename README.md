@@ -15,9 +15,9 @@ Learnig Game -Design & -Engineering since 2024
 ```javascript
 const aboutMe = {
   basedIn:"Schwerin Germany"
-  ba = basics, be = beginner
-  code: [C# = ba, Lua = be, Kotlin =be],
-  tools: [Unity = basic, Figma = basic, Blender = beginner, Photoshop = beginner, Asprite = beginner],
+  b = basics, l = little knowledge
+  code: [C# = b, Lua = l, Kotlin = l],
+  tools: [Unity = b, Figma = b, Blender = l, Photoshop = l, Asprite = l],
   
  currentFocus:"I am working currently on my 4.SemesterProject & reusable and independent movement scripts"
 }
