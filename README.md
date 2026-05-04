@@ -1,4 +1,4 @@
-<h2><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc21mb2tndml1cnNuenc2eXJqbTA0cHQxZzhvcGY0MngwcXg0aXU3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d7W82Dz6SB6zh4npo0/giphy.gif" width="50"> p { font-size: 1.2em; }My name is Elia</h2>
+<h2><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc21mb2tndml1cnNuenc2eXJqbTA0cHQxZzhvcGY0MngwcXg0aXU3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d7W82Dz6SB6zh4npo0/giphy.gif" width="50"> <span style="font-size: 20px;">Text</span>My name is Elia</h2>
 
 ### A quick overview of myself
 
