@@ -26,7 +26,7 @@ const aboutMe = {
 
   Platforms:  [Windows = b, Mobile = l],
 
-  basedIn:"Schwerin Germany",
+  basedIn:    [Schwerin, Germany],
   currentFocus:"I am working currently on my 4.SemesterProject & reusable and independent movement scripts"
 }
 ```
