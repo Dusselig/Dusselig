@@ -9,7 +9,7 @@ I started making private mods and map in 2016.
 
 I tried blender, unity and VS Code for the first time in 2021.
 
-Learnig Game -Design & -Engineering since 2024 at [Designschule Schwerin ](https://designschule.de)
+Currently learnig Game -Design & -Engineering since 2024 at [Designschule Schwerin ](https://designschule.de)
 
 *   See my projects [dusselig.itch.io](http://dusselig.itch.io)
 *   You can contact me per [discord](https://discord.com/users/dusselig) or [email](mailto:elialuning5@gmail.de)
