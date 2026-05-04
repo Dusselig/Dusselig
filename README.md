@@ -1,4 +1,4 @@
-<h2><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnF5eDR0b3hrbnozcTRuYnNlZDVyeGgya3dmczFpbnNuejdxY2ZlMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MPxg9U887PS0B8XT4J/giphy.gif" width="50"> My name is Elia</h2>
+<h2><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDFhZWJsMzAyMGx3MjQyaTkyZmxzd3R1cmlib2JidXQzaXVqZWducSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ed1FaePDtIjlz2tunv/giphy.gif" width="50"> My name is Elia</h2>
 
 ### Game Engineer
 
