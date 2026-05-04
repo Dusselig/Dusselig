@@ -4,20 +4,17 @@ Hi 👋 My name is Elia L.
 Game Engineer
 -------------
 
-I started with making private mods and map in 2018.
+I started making private mods and map in 2016.
 
 In 2021 i tried blender, unity and VS Code for the first time.
 
-My first real project that is publicly available is my 2.Semsterproject i finished in 2025.
-
-since then i worked on multiple game james and im currently on my 4.Semesterproject.
+Learnig Game -Design & -Engineering since 2024
 
 *   See my projects [https://dusselig.itch.io](http://dusselig.itch.io)
-*   I'm based in Schwerin Germany
 *   You can contact me at [elialuning5@gmail.de](mailto:elialuning5@gmail.de)
-*   I'm currently learning Unity, C#
 ```javascript
 const aboutme = {
+  basedIn:"Schwerin Germany"
   code: [c#, aLittleLua, aLitlleKotlin],
   tools: [unity, figma, blender, photoshop, Asprite],
   
