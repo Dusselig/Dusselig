@@ -1,4 +1,4 @@
-Hi 👋 My name is Elia L.
+Hi My name is Elia
 ========================
 
 Game Engineer
