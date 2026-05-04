@@ -13,7 +13,7 @@ Learnig Game -Design & -Engineering since 2024
 *   See my projects [https://dusselig.itch.io](http://dusselig.itch.io)
 *   You can contact me at [elialuning5@gmail.de](mailto:elialuning5@gmail.de)
 ```javascript
-const aboutme = {
+const aboutMe = {
   basedIn:"Schwerin Germany"
   code: [c#, aLittleLua, aLitlleKotlin],
   tools: [unity, figma, blender, photoshop, Asprite],
