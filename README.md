@@ -17,12 +17,14 @@ Currently learnig Game -Design & -Engineering since 2024 at [Designschule Schwer
 const aboutMe = {
   b = basics, l = littleKnowledge,
   Code:       [C# = b, Lua = l, Kotlin = l],
+
   IDE:        [JetBrainRider = b, Notepad++ = b, VSCode = l],
 
   Skills:     [LevelDesign = b, 3DModling = l, ConceptArt = l],
+
   Tools:      [Unity = b, Figma = b, Blender = l, Photoshop = l, Asprite = l],
+
   Platforms:  [Windows = b, Mobile = l],
-  
 
   basedIn:"Schwerin Germany",
   currentFocus:"I am working currently on my 4.SemesterProject & reusable and independent movement scripts"
