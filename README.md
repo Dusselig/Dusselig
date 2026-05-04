@@ -19,7 +19,7 @@ const aboutMe = {
   code:       [C# = b, Lua = l, Kotlin = l],
   IDE:        [JetBrainRider = b, Notepad++ = b, VSCode = l],
   skills:     [LevelDesign = b, 3DModling = l, ConceptArt = l],
-  tools:      [Unity = b, Figma = b, Blender = l, Photoshop = l, Asprite = l],
+  tools:      [Unity = b, Figma = b, Blender = l, Photoshop = l, Asprite = l]
   platforms:  [Windows = b, Mobile = l]
 
   
