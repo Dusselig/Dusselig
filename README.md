@@ -5,8 +5,10 @@ Game Engineer
 -------------
 
 I started making private mods and map in 2016.
+
 In 2021 i tried blender, unity and VS Code for the first time.
-Learnig Game -Design & -Engineering since 2024 at https://designschule.de .
+
+Learnig Game -Design & -Engineering since 2024 at https://designschule.de 
 
 *   See my projects [https://dusselig.itch.io](http://dusselig.itch.io)
 *   You can contact me per discord or at [elialuning5@gmail.de](mailto:elialuning5@gmail.de)
