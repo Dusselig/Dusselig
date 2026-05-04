@@ -7,7 +7,7 @@
 
 I started making private mods and map in 2016.
 
-In 2021 i tried blender, unity and VS Code for the first time.
+I tried blender, unity and VS Code for the first time in 2021.
 
 Learnig Game -Design & -Engineering since 2024 at [Designschule Schwerin ](https://designschule.de)
 
