@@ -12,10 +12,10 @@ My first real project that is publicly available is my 2.Semsterproject i finish
 
 since then i worked on multiple game james and im currently on my 4.Semesterproject.
 
-* 🖥️  See my projects [https://dusselig.itch.io](http://dusselig.itch.io)
-* 🌍  I'm based in Schwerin Germany
-* ✉️  You can contact me at [elialuning5@gmail.de](mailto:elialuning5@gmail.de)
-* 🧠  I'm currently learning Unity, C#
+*   See my projects [https://dusselig.itch.io](http://dusselig.itch.io)
+*   I'm based in Schwerin Germany
+*   You can contact me at [elialuning5@gmail.de](mailto:elialuning5@gmail.de)
+*   I'm currently learning Unity, C#
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" alt="Blender" title="Blender" width="36" height="36" /></a>
