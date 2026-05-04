@@ -1,6 +1,6 @@
 <h2><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDFhZWJsMzAyMGx3MjQyaTkyZmxzd3R1cmlib2JidXQzaXVqZWducSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ed1FaePDtIjlz2tunv/giphy.gif" width="50"> My name is Elia</h2>
 
-### Game Engineer
+### A quick overview of myself
 
 I started making private mods and map in 2016.
 
@@ -12,16 +12,16 @@ Learnig Game -Design & -Engineering since 2024 at https://designschule.de
 *   You can contact me per discord or at [elialuning5@gmail.de](mailto:elialuning5@gmail.de)
 ```javascript
 const aboutMe = {
-  basedIn:"Schwerin Germany"
   b = basics, l = littleKnowledge,
   code:       [C# = b, Lua = l, Kotlin = l],
   IDE:        [JetBrainRider = b, Notepad++ = b, VSCode = l],
   skills:     [LevelDesign = b, 3DModling = l, ConceptArt = l],
   tools:      [Unity = b, Figma = b, Blender = l, Photoshop = l, Asprite = l],
-  platforms:  [Windows = b, Mobile = l]
+  platforms:  [Windows = b, Mobile = l],
 
-  
- currentFocus:"I am working currently on my 4.SemesterProject & reusable and independent movement scripts"
+  basedIn:"Schwerin Germany"
+
+  currentFocus:"I am working currently on my 4.SemesterProject & reusable and independent movement scripts"
 }
 ```
 
