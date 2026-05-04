@@ -1,8 +1,6 @@
 <h2><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnF5eDR0b3hrbnozcTRuYnNlZDVyeGgya3dmczFpbnNuejdxY2ZlMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MPxg9U887PS0B8XT4J/giphy.gif" width="50"> My name is Elia</h2>
-========================
 
 Game Engineer
--------------
 
 I started making private mods and map in 2016.
 
