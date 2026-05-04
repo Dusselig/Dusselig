@@ -17,6 +17,7 @@ const aboutMe = {
   basedIn:"Schwerin Germany"
   b = basics, l = littleKnowledge,
   code: [C# = b, Lua = l, Kotlin = l],
+  skills:[3DModling = l, conzeptArt = l]
   tools: [Unity = b, Figma = b, Blender = l, Photoshop = l, Asprite = l],
   
  currentFocus:"I am working currently on my 4.SemesterProject & reusable and independent movement scripts"
