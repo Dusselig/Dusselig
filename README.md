@@ -15,7 +15,7 @@ Learnig Game -Design & -Engineering since 2024
 ```javascript
 const aboutMe = {
   basedIn:"Schwerin Germany"
-  b = basics, l = little knowledge,
+  b = basics, l = littleKnowledge,
   code: [C# = b, Lua = l, Kotlin = l],
   tools: [Unity = b, Figma = b, Blender = l, Photoshop = l, Asprite = l],
   
