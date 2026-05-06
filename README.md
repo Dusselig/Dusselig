@@ -28,7 +28,7 @@ const aboutMe = {
 
   Platforms:  [Windows = b, Mobile = l],
 
-  basedIn:    [Schwerin, Germany],
+  basedIn:    [Schwerin, Germany]
 }
 ```
   
