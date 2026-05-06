@@ -4,10 +4,10 @@
 </h2>
 
 ### A quick overview of myself
-Hello there! I'm a game developer from Germany.
+Hello there! I'm a game developer from germany.
 I started making private mods and map in 2016.
-I tried blender, unity and VS Code for the first time in 2021.
-Currently learnig Game -Design & -Engineering since 2024 at [Designschule Schwerin ](https://designschule.de)
+I tried Blender,Unity and VS Code for the first time in 2021.
+Currently learnig game -design & -engineering since 2024 at [Designschule Schwerin ](https://designschule.de)
 ```javascript
 const aboutMe = {
   b = basics, l = littleKnowledge,
