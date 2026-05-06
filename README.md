@@ -11,7 +11,7 @@ I started making private mods and map in 2016 and tried Blender,Unity and VS Cod
 
 Currently learnig game -design & -engineering since 2024 at [Designschule Schwerin. ](https://designschule.de)
 
-I am working currently on my 4.SemesterProject & reusable and independent movement scripts.
+I am working currently on my 4.SemesterProject & a reusable and independent movement scripts.
 
 *   See my projects [dusselig.itch.io](http://dusselig.itch.io)
 *   You can contact me per [discord](https://discord.com/users/dusselig) or [email](mailto:elialuning5@gmail.de)
