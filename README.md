@@ -16,7 +16,7 @@ I am working currently on my 4.SemesterProject & a reusable and independent move
 *   See my projects [dusselig.itch.io](http://dusselig.itch.io)
 *   You can contact me per [discord](https://discord.com/users/dusselig) or [email](mailto:elialuning5@gmail.de)
 ```javascript
-const aboutMe = {
+const mySkillSet = {
   b = basics, l = littleKnowledge,
   Code:       [C# = b, Lua = l, Kotlin = l],
 
