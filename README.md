@@ -1,12 +1,16 @@
-<h2>
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc21mb2tndml1cnNuenc2eXJqbTA0cHQxZzhvcGY0MngwcXg0aXU3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d7W82Dz6SB6zh4npo0/giphy.gif" width="50"> 
-  <span style="font-size: 40px;">My name is Elia</span>
-</h2>
-
+<div style="font-size: 40px;">
+  <h2>
+    <img           src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc21mb2tndml1cnNuenc2eXJqbTA0cHQxZzhvcGY0MngwcXg0aXU3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d7W82Dz6SB6zh4npo0/giphy.gif" width="50"> My name is Elia
+   </h2>
+</div>
 ### A quick overview of myself
 Hello there! I'm a game developer from germany.
 I started making private mods and map in 2016 and tried Blender,Unity and VS Code for the first time in 2021.
 Currently learnig game -design & -engineering since 2024 at [Designschule Schwerin ](https://designschule.de)
+I am working currently on my 4.SemesterProject & reusable and independent movement scripts.
+
+*   See my projects [dusselig.itch.io](http://dusselig.itch.io)
+*   You can contact me per [discord](https://discord.com/users/dusselig) or [email](mailto:elialuning5@gmail.de)
 ```javascript
 const aboutMe = {
   b = basics, l = littleKnowledge,
@@ -23,10 +27,6 @@ const aboutMe = {
   basedIn:    [Schwerin, Germany],
 }
 ```
-I am working currently on my 4.SemesterProject & reusable and independent movement scripts.
-
-*   See my projects [dusselig.itch.io](http://dusselig.itch.io)
-*   You can contact me per [discord](https://discord.com/users/dusselig) or [email](mailto:elialuning5@gmail.de)
   
 ### Socials
 
