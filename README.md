@@ -5,8 +5,11 @@
 </div>
 ### A quick overview of myself
 Hello there! I'm a game developer from germany.
+
 I started making private mods and map in 2016 and tried Blender,Unity and VS Code for the first time in 2021.
-Currently learnig game -design & -engineering since 2024 at [Designschule Schwerin ](https://designschule.de)
+
+Currently learnig game -design & -engineering since 2024 at [Designschule Schwerin. ](https://designschule.de)
+
 I am working currently on my 4.SemesterProject & reusable and independent movement scripts.
 
 *   See my projects [dusselig.itch.io](http://dusselig.itch.io)
