@@ -26,9 +26,7 @@ const aboutMe = {
 
   Tools:      [Unity = b, Figma = b, Blender = l, Photoshop = l, Asprite = l],
 
-  Platforms:  [Windows = b, Mobile = l],
-
-  basedIn:    [Schwerin, Germany]
+  Platforms:  [Windows = b, Mobile = l]
 }
 ```
   
